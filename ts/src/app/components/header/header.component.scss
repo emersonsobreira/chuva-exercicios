@@ -4,15 +4,15 @@
 }
 
 .container .align {
+  display: flex;
   align-items: center;
   background-color: #fdf1eb;
-  display: flex;
 }
 
 .header-txt p,
 h3 {
   color: #725c5c;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 .header-txt h3 {
@@ -41,11 +41,11 @@ select,
   color: #333333;
 }
 
-.imagem imagem {
+.imagem img {
   border-radius: 50%;
 }
 
-.imagem imagem:first-child {
+.imagem img:first-child {
   position: relative;
   top: -22px;
   right: -33px;

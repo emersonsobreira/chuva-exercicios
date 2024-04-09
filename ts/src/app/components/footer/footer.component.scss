@@ -1,0 +1,15 @@
+  .footer {
+    position: relative;
+  }
+  
+  .footer .img {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .footer .img img {
+    width: 100%;
+    height: auto; 
+    object-fit: cover; 
+  }
+  
